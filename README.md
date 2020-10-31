@@ -4,6 +4,11 @@ Then again, there are some pitfalls and technical challenges when writing practi
 
 This project aims to collect know-hows and best practices about Apache Beam.
 
+- [beam-examples](#beam-examples)
+  - [Example summary](#example-summary)
+  - [How to contribute](#how-to-contribute)
+  - [Contributors](#contributors)
+
 ## Example summary
 |  example  |  description  |
 | ---- | ---- |
